@@ -1,0 +1,9 @@
+<tr><th>Filesystem</th><th>1K-blocks</th><th>Used</th><th>Available</th><th>Use%</th><th>Mounted</th></tr>
+<tr><th>udev</th><th>1003472</th><th>0</th><th>1003472</th><th>0%</th><th>/dev</th></tr>
+<tr><th>tmpfs</th><th>204844</th><th>6328</th><th>198516</th><th>4%</th><th>/run</th></tr>
+<tr><th>/dev/mapper/ubuntu--vg-root</th><th>5565612</th><th>4876852</th><th>382996</th><th>93%</th><th>/</th></tr>
+<tr><th>tmpfs</th><th>1024204</th><th>296</th><th>1023908</th><th>1%</th><th>/dev/shm</th></tr>
+<tr><th>tmpfs</th><th>5120</th><th>4</th><th>5116</th><th>1%</th><th>/run/lock</th></tr>
+<tr><th>tmpfs</th><th>1024204</th><th>0</th><th>1024204</th><th>0%</th><th>/sys/fs/cgroup</th></tr>
+<tr><th>/dev/sda1</th><th>482922</th><th>108670</th><th>349318</th><th>24%</th><th>/boot</th></tr>
+<tr><th>tmpfs</th><th>204844</th><th>84</th><th>204760</th><th>1%</th><th>/run/user/1000</th></tr>

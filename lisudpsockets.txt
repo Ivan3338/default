@@ -1,0 +1,9 @@
+<tr><th>Active</th><th>Internet</th><th>connections</th><th>(only</th><th>servers)</th><th></th></tr>
+<tr><th>Proto</th><th>Recv-Q</th><th>Send-Q</th><th>Local</th><th>Address</th><th>Foreign</th></tr>
+<tr><th>udp</th><th>0</th><th>0</th><th>*:56154</th><th>*:*</th><th></th></tr>
+<tr><th>udp</th><th>0</th><th>0</th><th>ivan-VirtualBox:domain</th><th>*:*</th><th></th></tr>
+<tr><th>udp</th><th>0</th><th>0</th><th>*:bootpc</th><th>*:*</th><th></th></tr>
+<tr><th>udp</th><th>0</th><th>0</th><th>*:mdns</th><th>*:*</th><th></th></tr>
+<tr><th>udp</th><th>0</th><th>0</th><th>*:ipp</th><th>*:*</th><th></th></tr>
+<tr><th>udp6</th><th>0</th><th>0</th><th>[::]:54262</th><th>[::]:*</th><th></th></tr>
+<tr><th>udp6</th><th>0</th><th>0</th><th>[::]:mdns</th><th>[::]:*</th><th></th></tr>

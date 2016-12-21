@@ -1,0 +1,5 @@
+<tr><th>Active</th><th>Internet</th><th>connections</th><th>(only</th><th>servers)</th><th></th></tr>
+<tr><th>Proto</th><th>Recv-Q</th><th>Send-Q</th><th>Local</th><th>Address</th><th>Foreign</th></tr>
+<tr><th>tcp</th><th>0</th><th>0</th><th>*:http</th><th>*:*</th><th>LISTEN</th></tr>
+<tr><th>tcp</th><th>0</th><th>0</th><th>localhost:81</th><th>*:*</th><th>LISTEN</th></tr>
+<tr><th>tcp</th><th>0</th><th>0</th><th>ivan-VirtualBox:domain</th><th>*:*</th><th>LISTEN</th></tr>

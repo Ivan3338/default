@@ -1,0 +1,10 @@
+<tr><th>Linux</th><th>4.4.0-53-generic</th><th>(ivan-VirtualBox)</th><th>12/21/16</th><th>_x86_64_</th><th>(1</th><th>CPU)</th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>avg-cpu:</th><th>%user</th><th>%nice</th><th>%system</th><th>%iowait</th><th>%steal</th><th>%idle</th></tr>
+<tr><th>8.89</th><th>0.17</th><th>1.73</th><th>2.93</th><th>0.00</th><th>86.29</th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>Device:</th><th>tps</th><th>kB_read/s</th><th>kB_wrtn/s</th><th>kB_read</th><th>kB_wrtn</th><th></th></tr>
+<tr><th>sda</th><th>11.01</th><th>224.79</th><th>20.52</th><th>494590</th><th>45150</th><th></th></tr>
+<tr><th>dm-0</th><th>13.27</th><th>221.28</th><th>20.52</th><th>486853</th><th>45144</th><th></th></tr>
+<tr><th>dm-1</th><th>0.02</th><th>0.53</th><th>0.00</th><th>1168</th><th>0</th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>

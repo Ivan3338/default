@@ -1,0 +1,4 @@
+<tr><th>Linux</th><th>4.4.0-53-generic</th><th>(ivan-VirtualBox)</th><th>12/21/16</th><th>_x86_64_</th><th>(1</th><th>CPU)</th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><th>15:36:58</th><th>CPU</th><th>%usr</th><th>%nice</th><th>%sys</th><th>%iowait</th><th>%irq</th><th>%soft</th><th>%steal</th><th>%guest</th></tr>
+<tr><th>15:36:58</th><th>all</th><th>8.89</th><th>0.17</th><th>1.63</th><th>2.93</th><th>0.00</th><th>0.10</th><th>0.00</th><th>0.00</th></tr>
