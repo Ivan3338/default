@@ -9,7 +9,7 @@ sudo cp -r ./* /var/www/html;
 sudo cp -r ./files/apache2 /etc;
 sudo cp -r ./files/nginx /etc;
 sudo chmod -R 666 /var/www/html/*;
-sudo chmod 777 /var/www/html scriptcrontoptalkers.sh scriptinfo.sh scripttoptalkers.sh;
+sudo chmod 777 /var/www/html/scriptcrontoptalkers.sh /var/www/html/scriptinfo.sh /var/www/html/scripttoptalkers.sh;
 sudo service apache2 start;
 sudo service nginx start;
 
